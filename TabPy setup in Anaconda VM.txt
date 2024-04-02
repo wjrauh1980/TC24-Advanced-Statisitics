@@ -1,0 +1,21 @@
+Open Anaconda Prompt
+
+Step 1: conda create -n my-tabpy-env python=3.7  #change environment name to one of your choosing
+
+Step 2: conda activate "my-tabpy-env"
+
+Step 3: install your libraries in the environment
+
+pip install pandas as pd
+pip install numbpy as np
+pip install statistics as st
+pip install tabpy
+pip install sprt
+
+Step 4: in your virtual environment, call tabpy
+tabpy
+
+--select y
+--for this exercise we are not publishing or utilizing a production python server
+
+Step 5: Follow remaining instructions via Lab Manual	
